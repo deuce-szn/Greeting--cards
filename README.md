@@ -6,4 +6,6 @@ The "Greeting Cards Application" is a React project that utilizes Vite and Tailw
 
 
 
-![Screenshot 2024-11-25 132605](https://github.com/user-attachments/assets/bedd8c78-eef4-466d-8c3e-9f6d028c48c4)
+
+![Screenshot 2024-11-25 132605](https://github.com/user-attachments/assets/009472b2-2392-40b6-8953-98cf600922b6)
+
